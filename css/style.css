@@ -1,0 +1,15 @@
+.notecard-style {
+    margin-top: 2rem;
+}
+
+.style-add {
+    background-color: #F7F7F7 !important;
+}
+
+button.arrow-set {
+    color: #5BC0DE !important;
+}
+
+button.arrow-set:hover {
+    color: white !important;
+}
